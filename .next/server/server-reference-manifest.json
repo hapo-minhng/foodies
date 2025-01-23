@@ -1,5 +1,17 @@
 {
-  "node": {},
+  "node": {
+    "4014813ba806cf0838d7fe3fbec74db1768ae748f1": {
+      "workers": {
+        "app/meals/share/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fclient%2FTraining%2Ffoodies%2Fapp%2Fmeals%2Fshare%2Fpage.js%22%2C%5B%5B%224014813ba806cf0838d7fe3fbec74db1768ae748f1%22%2C%22%24%24RSC_SERVER_ACTION_0%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/meals/share/page": "rsc"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "JcyHIpa9xj/pG1Qh6nB7mvHRR1pZlhvW3QTEE7AqWD0="
 }
