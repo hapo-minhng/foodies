@@ -1,6 +1,6 @@
 {
-  "/icon.png/route": "app/icon.png/route.js",
   "/meals/[meal]/page": "app/meals/[meal]/page.js",
   "/meals/page": "app/meals/page.js",
-  "/meals/share/page": "app/meals/share/page.js"
+  "/meals/share/page": "app/meals/share/page.js",
+  "/icon.png/route": "app/icon.png/route.js"
 }
